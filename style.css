@@ -9,6 +9,10 @@ body {
 	display: block;
 }
 
+h1 {
+	font-weight: 500;
+}
+
 #container {
 	display: flex;
 	align-items: center;
